@@ -1,0 +1,16 @@
+C:\Users\Turan\source\repos\NetSatis\NetSatis.Entities\bin\Debug\NetSatis.Entities.dll.config
+C:\Users\Turan\source\repos\NetSatis\NetSatis.Entities\bin\Debug\NetSatis.Entities.dll
+C:\Users\Turan\source\repos\NetSatis\NetSatis.Entities\bin\Debug\NetSatis.Entities.pdb
+C:\Users\Turan\source\repos\NetSatis\NetSatis.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Turan\source\repos\NetSatis\NetSatis.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Turan\source\repos\NetSatis\NetSatis.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Turan\source\repos\NetSatis\NetSatis.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Turan\source\repos\NetSatis\NetSatis.Entities\obj\Debug\NetSatis.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Turan\source\repos\NetSatis\NetSatis.Entities\obj\Debug\NetSatis.Entities.csproj.CopyComplete
+C:\Users\Turan\source\repos\NetSatis\NetSatis.Entities\obj\Debug\NetSatis.Entities.dll
+C:\Users\Turan\source\repos\NetSatis\NetSatis.Entities\obj\Debug\NetSatis.Entities.pdb
+C:\Users\Turan\source\repos\NetSatis\NetSatis.Entities\obj\Debug\NetSatis.Entities.Migrations.InitialCreate.resources
+C:\Users\Turan\source\repos\NetSatis\NetSatis.Entities\obj\Debug\NetSatis.Entities.csproj.GenerateResource.cache
+C:\Users\Turan\source\repos\NetSatis\NetSatis.Entities\bin\Debug\FluentValidation.dll
+C:\Users\Turan\source\repos\NetSatis\NetSatis.Entities\bin\Debug\FluentValidation.xml
+C:\Users\Turan\source\repos\NetSatis\NetSatis.Entities\bin\Debug\System.ComponentModel.Annotations.dll
